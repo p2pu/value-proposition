@@ -58,3 +58,7 @@ Nico
  - Clear achievable goals for revenue in next 2-3 years
  - A widened perspective of the mission, goals and values of p2pu (not just learning circles)
 
+
+## Next steps
+
+- Talk about trajectory to arrive at what would make us happy. Activities, documentation, information needed
